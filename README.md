@@ -11,7 +11,7 @@
 
 ### 🚀 Technical Arsenal
 
-*   **Languages:** Python, GoLang, Rust, C/C++, SQL 
+*   **Languages:** Python, GoLang, Rust, C/C++, SQL, NodeJS
 *   **Deep Learning & ML:** PyTorch, Scikit-Learn, XGBoost, LangGraph, DeepEval 
 *   **Data & Big Data:** BigQuery, Kafka, Flink, Pandas, NumPy, Scipy 
 *   **Infrastructure & MLOps:** Docker, FastAPI, gRPC, HPC, Qdrant, Elasticsearch 
