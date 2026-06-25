@@ -20,14 +20,17 @@
 
 ### 🧠 Featured Engineering & AI Research
 
-#### [Aegis Nexus: Guardrailed AI Orchestrator](link-to-repo)
-> Architected a zero-downtime AI reverse proxy in GoLang maintaining concurrent guardrails using Goroutines. Engineered a Pinecone semantic router to dynamically transition LLM conversations into deterministic workflows.
-
 #### [Scientific Literature Answer Engine](link-to-repo)
 > Built a high-recall hybrid retrieval engine achieving 200ms latency via async FastAPI and gRPC. Engineered a Corrective RAG (CRAG) synthesis layer with Llama-3-8B and an offline Learning-to-Rank pipeline utilizing XGBoost LambdaMART.
 
 #### [Multi-Agent Task Allocation Framework](link-to-repo)
-> Designed a framework for Multi-Agent Systems addressing the Complexity-Competence Gap. Constructed a Graph Neural Network trained via MARL, utilizing an LLM-as-judge evaluator to achieve a 20% performance gain in accuracy.
+> Designed a framework for Multi-Agent Systems addressing the Complexity-Competence Gap. Constructed a Graph Neural Network trained via MARL, utilizing an LLM-as-judge evaluator to achieve a 20% performance gain in accuracy. This is my Master's Thesis work.
+
+#### [Papeer: Conversational-AI-Assistant](link-to-repo)
+> Built a production-ready agentic RAG system using LangGraph with SQLite-based session checkpointing, dynamic query routing, and fallback web search via Tavily. Implemented a pipeline with LLM-based relevance evaluation, query rewriting, and a DeepEval-driven continuous evaluation loop to optimize grounded, high-precision responses.
+
+#### [Aegis Nexus: Guardrailed AI Orchestrator](link-to-repo)
+> Architected a zero-downtime AI reverse proxy in GoLang maintaining concurrent guardrails using Goroutines. Engineered a Pinecone semantic router to dynamically transition LLM conversations into deterministic workflows.
 
 ---
 
