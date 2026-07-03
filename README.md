@@ -68,7 +68,7 @@
   <a href="https://sakeri-cyber.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&width=600&lines=ML+Engineer+%7C+180M%2B+MAU+at+Sharechat;Hybrid+Retrieval+%7C+LTR+%7C+Corrective+RAG;GNN+%2B+MARL+for+Multi-Agent+Systems;IIT+Madras+%C3%97+University+of+Birmingham+MSc" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&width=600&lines=ML+Engineer+%7C+at+Sharechat;Hybrid+Retrieval+%7C+LTR+%7C+Corrective+RAG;GNN+%2B+MARL+for+Multi-Agent+Systems" alt="Typing SVG" />
 
 </div>
 
@@ -76,7 +76,7 @@
 
 ### About
 
-Machine Learning Engineer with nearly 3 years of experience at Sharechat (180M+ MAU) and a Joint MSc in Data Science & AI from **IIT Madras × University of Birmingham** (Distinction). I build end-to-end ML systems: from custom Triton kernels and XGBoost ranking pipelines to GNN-based multi-agent orchestrators and production RAG systems.
+Machine Learning Engineer with nearly 3 years of experience at Sharechat (serving 180 Million Monthly Active Users) and a Joint MSc in Data Science & AI from **IIT Madras × University of Birmingham** (Distinction). I build end-to-end ML systems: from XGBoost ranking pipelines to GNN-based multi-agent orchestrators and production Agentic RAG systems.
 
 My engineering philosophy: go deep on the root cause, measure everything, and only then optimise.
 
