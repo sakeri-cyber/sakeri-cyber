@@ -44,5 +44,5 @@
 ---
 
 <div align="center">
-  📫 <b>Connect with me:</b> <a href="mailto:rohan.sakeri17@gmail.com">rohan.sakeri17@gmail.com</a> | <a href="https://linkedin.com/in/rohan-sakeri/">LinkedIn</a> 
+  📫 <b>Connect with me:</b> <a href="mailto:rohan.sakeri17@gmail.com">rohan.sakeri17@gmail.com</a> | <a href="https://www.linkedin.com/in/rohan-sakeri-41062a1b5/"">LinkedIn</a> 
 </div>
