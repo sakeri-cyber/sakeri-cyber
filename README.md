@@ -115,7 +115,7 @@ My engineering philosophy: go deep on the root cause, measure everything, and on
 
 ### Featured Engineering & AI Research
 
-#### [⚡ Agentic Answer Engine]([REPO-LINK-Answer-Engine])
+#### [⚡ Agentic Answer Engine]([[REPO-LINK-Answer-Engine](https://github.com/sakeri-cyber/Agentic-Answer-Engine-Perplexity-Clone-)])
 > Built a Perplexity-style scientific literature retrieval engine with a **6-phase ML pipeline**: HyDE query decomposition → async Qdrant + Elasticsearch hybrid retrieval → **XGBoost LambdaMART re-ranking** (trained on LLM-as-judge synthetic labels) → CRAG hallucination detection → Llama-3.3-70B streaming synthesis. **200ms retrieval latency** via asyncio.
 
 #### [🧠 CODAF — MSc Dissertation]([REPO-LINK-CODAF])
