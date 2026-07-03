@@ -118,13 +118,13 @@ My engineering philosophy: go deep on the root cause, measure everything, and on
 #### [⚡ Agentic Answer Engine](https://github.com/sakeri-cyber/Agentic-Answer-Engine-Perplexity-Clone-)
 > Built a Perplexity-style scientific literature retrieval engine with a **6-phase ML pipeline**: HyDE query decomposition → async Qdrant + Elasticsearch hybrid retrieval → **XGBoost LambdaMART re-ranking** (trained on LLM-as-judge synthetic labels) → CRAG hallucination detection → Llama-3.3-70B streaming synthesis. **200ms retrieval latency** via asyncio.
 
-#### [🧠 CODAF — MSc Dissertation]([REPO-LINK-CODAF])
+#### [🧠 CODAF — MSc Dissertation](https://sakeri-cyber.github.io/projects/#the-problem-coordination-failure-in-multi-agent-systems)
 > Designed a **GNN + MARL framework** for multi-agent task allocation addressing the Complexity-Competence Gap. A 2-layer GraphSAGE network generates dynamic Ability Embeddings and routes tasks to 8 specialized clinical agents via cosine similarity, trained with REINFORCE and a multi-factor clinical reward. Achieved **80.0% Diagnostic Success Rate** on Microsoft's SDBench benchmark (**88.8% Oracle reasoning accuracy**, 40% path cost reduction vs. static baseline).
 
-#### [🔬 Papeer — Agentic Research Assistant]([REPO-LINK-PAPEER])
+#### [🔬 Papeer — Agentic Research Assistant](https://github.com/sakeri-cyber/Conversational-AI-Assistant)
 > Production-ready LangGraph RAG with **Corrective RAG**, isolated SQLite session checkpointing, bounded query rewriting, and an automated **DeepEval CI pipeline** tracking Contextual Precision, Recall, and Answer Relevancy.
 
-#### [💰 Bid-O-Matic — Intelligent Ad Bidding Engine]([REPO-LINK-AUCTION])
+#### [💰 Bid-O-Matic — Intelligent Ad Bidding Engine](https://github.com/sakeri-cyber/bid-o-matic)
 > GSP auction simulation with PySpark feature engineering, XGBoost/DLRM conversion prediction, and a **REINFORCE policy-gradient agent** for bid shading — learning the optimal \(α\) multiplier to maximise profit under daily budget constraints.
 
 ---
