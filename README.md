@@ -65,7 +65,7 @@
   &nbsp;
   <a href="mailto:rohan.sakeri17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="https://sakeri-cyber.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://portfolio-rohan-sakeri.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&width=600&lines=ML+Engineer+@+Sharechat;Hybrid+Retrieval+%7C+LTR+%7C+Corrective+RAG;GNN+%2B+MARL+for+Multi-Agent+Systems" alt="Typing SVG" />
